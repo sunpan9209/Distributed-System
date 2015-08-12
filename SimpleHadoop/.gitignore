@@ -1,0 +1,11 @@
+build/
+data/
+.DS_Store
+.classpath
+.settings
+bin/
+.project
+*.jar
+MANIFEST.MF
+build.num
+tmp/

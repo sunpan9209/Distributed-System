@@ -1,0 +1,11 @@
+build/
+data/
+output/
+.DS_Store
+.classpath
+bin/
+.project
+*.jar
+MANIFEST.MF
+build.num
+tmp/
